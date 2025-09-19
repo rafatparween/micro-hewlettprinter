@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* html {
+  font-size: 65%;
+} */
+
+:root {
+  /* Primary Colors */
+  --primary-blue: #004aad;
+  /* Trustworthy and bold blue */
+  --secondary-blue: #007bff;
+  /* Light blue for accents */
+  --white: #ffffff;
+  /* Clean white for background and text */
+
+  /* Neutral Colors */
+  --light-gray: #f4f4f4;
+  /* Subtle gray for background sections */
+  --medium-gray: #d1d1d1;
+  /* Borders and separators */
+  --dark-gray: #4a4a4a;
+  /* Text and subtle elements */
+
+  /* Accent Colors */
+  --cta-hover: #00337c;
+  /* Darker blue for call-to-action hover effect */
+
+  /* Font Colors */
+  --text-dark: #222222;
+  /* Main text color */
+  --text-light: #555555;
+  /* Subtext and less important details */
+
+  /* Shadow and Highlight */
+  --box-shadow: rgba(0, 0, 0, 0.1);
+  /* Light shadow for cards and elements */
+}
+
+body {
+  font-family: 'Lora', serif;
+  /* background-color: #d1d1d1; */
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
