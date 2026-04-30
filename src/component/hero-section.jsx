@@ -92,7 +92,7 @@ export const HeroSection = () => {
           initial="hidden"
           animate="visible"
         >
-          Get in Touch with Micro Sonic Today! <br />
+          Get in Touch with Sova Cloud Solutions Today! <br />
           Have a question or ready to start your project? We're here to help!
         </motion.p>
 

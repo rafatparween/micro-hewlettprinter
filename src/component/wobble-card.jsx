@@ -105,7 +105,7 @@ export function WobbleCardDemo() {
                         </h2>
 
                         <p className="mt-4 text-left text-base text-neutral-200">
-                            At MicroSonic, we specialize in creating mobile-friendly websites. Our team ensures that every website we develop is fully responsive, optimized for mobile screens, and offers an exceptional user experience across all devices.
+                            At Sova Cloud Solutions, we specialize in creating mobile-friendly websites. Our team ensures that every website we develop is fully responsive, optimized for mobile screens, and offers an exceptional user experience across all devices.
                         </p>
                     </div>
                     <img
@@ -190,7 +190,7 @@ export function WobbleCardDemo() {
                             Efficient Code for Seamless Performance
                         </h2>
                         <p className="mt-4 text-left text-base text-neutral-200">
-                            At MicroSonic, we take pride in writing clean, efficient, and maintainable code. Our streamlined development practices ensure faster load times, improved scalability, and ease of future upgrades, empowering your digital presence with unparalleled performance.
+                            At Sova Cloud Solutions, we take pride in writing clean, efficient, and maintainable code. Our streamlined development practices ensure faster load times, improved scalability, and ease of future upgrades, empowering your digital presence with unparalleled performance.
                             <IntegrationInstructionsIcon />
                         </p>
 

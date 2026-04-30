@@ -99,7 +99,7 @@ export const ShowCaseCart = () => {
             className="text-lg text-text-dark font-semibold"
           >
             <span className="text-cta-hover">Proven Results:</span> Join hundreds
-            of satisfied clients who trust Micro Sonic for their digital success.
+            of satisfied clients who trust Sova Cloud Solutions for their digital success.
           </motion.p>
         </div>
       </motion.div> */}
@@ -159,7 +159,7 @@ export const IndustryPonits = () => {
 
       <ul className="text-center text-[25px]  text-text-light mt-2 space-y-2">
         <li>✔ 100% satisfaction guarantee: We're not happy until you are.</li>
-        <li>✔ Certified and trusted: Micro Sonic adheres to industry-leading security and quality standards.</li>
+        <li>✔ Certified and trusted: Sova Cloud Solutions adheres to industry-leading security and quality standards.</li>
         <li>✔ Proven track record: Over <strong>2 years</strong> of delivering successful web development projects.</li>
       </ul>
 

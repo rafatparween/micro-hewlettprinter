@@ -3,8 +3,8 @@ export const Disclaimer = () => {
         <div class="max-w-7xl mx-auto p-8 space-y-6 bg-gray-100 text-gray-800">
             <h1 class="text-3xl font-bold text-gray-900">Disclaimer</h1>
             <p class="text-lg">
-                The information provided by Microsonic (“Company”, “we”, “our”, “us”) on
-                <u> micro-sonic</u> is for general informational purposes only.
+                The information provided by Sova Cloud Solutions (“Company”, “we”, “our”, “us”) on
+                <u> Sova Cloud Solutions</u> is for general informational purposes only.
                 All information on the Site is provided in good faith; however, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site.
             </p>
 
@@ -24,7 +24,7 @@ export const Disclaimer = () => {
                 Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals. We do not provide any kind of legal advice.
             </p>
             <p class="text-lg">
-                Content published on <a href="https://www.microsonic.com" class="text-blue-500 hover:underline">www.microsonic.com</a> is intended to be used and must be used for informational purposes only.
+                Content published on <a href="https://www.sovaclooudsolutions.com" class="text-blue-500 hover:underline">www.sovaclooudsolutions.com</a> is intended to be used and must be used for informational purposes only.
                 It is very important to do your own analysis before making any decision based on your own personal circumstances. You should take independent legal advice from a professional or independently research and verify any information that you find on our Website and wish to rely upon.
             </p>
             <p class="text-lg">
@@ -51,24 +51,24 @@ export const Disclaimer = () => {
 
             <h2 class="text-2xl font-semibold text-gray-900">Errors and Omissions Disclaimer</h2>
             <p class="text-lg">
-                While we have made every attempt to ensure that the information contained in this site has been obtained from reliable sources, Microsonic is not responsible for any errors or omissions or for the results obtained from the use of this information.
+                While we have made every attempt to ensure that the information contained in this site has been obtained from reliable sources, Sova Cloud Solutions is not responsible for any errors or omissions or for the results obtained from the use of this information.
                 All information in this site is provided “as is,” with no guarantee of completeness, accuracy, timeliness, or of the results obtained from the use of this information, and without warranty of any kind, express or implied,
                 including, but not limited to warranties of performance, merchantability, and fitness for a particular purpose.
             </p>
             <p class="text-lg">
-                In no event will Microsonic, its related partnerships or corporations, or the partners, agents, or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site
+                In no event will Sova Cloud Solutions, its related partnerships or corporations, or the partners, agents, or employees thereof be liable to you or anyone else for any decision made or action taken in reliance on the information in this Site
                 or for any consequential, special, or similar damages, even if advised of the possibility of such damages.
             </p>
 
             <h2 class="text-2xl font-semibold text-gray-900">Guest Contributors Disclaimer</h2>
             <p class="text-lg">
-                This Site may include content from guest contributors, and any views or opinions expressed in such posts are personal and do not represent those of Microsonic or any of its staff or affiliates unless explicitly stated.
+                This Site may include content from guest contributors, and any views or opinions expressed in such posts are personal and do not represent those of Sova Cloud Solutions or any of its staff or affiliates unless explicitly stated.
             </p>
 
             <h2 class="text-2xl font-semibold text-gray-900">Logos and Trademarks Disclaimer</h2>
             <p class="text-lg">
-                All logos and trademarks of third parties referenced on <a href="https://www.microsonic.com" class="text-blue-500 hover:underline">www.microsonic.com</a> are the trademarks and logos of their respective owners.
-                Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement, or sponsorship of Microsonic by such owners.
+                All logos and trademarks of third parties referenced on <a href="https://www.sovaclooudsolutions.com" class="text-blue-500 hover:underline">www.sovaclooudsolutions.com</a> are the trademarks and logos of their respective owners.
+                Any inclusion of such trademarks or logos does not imply or constitute any approval, endorsement, or sponsorship of Sova Cloud Solutions by such owners.
             </p>
         </div>
 

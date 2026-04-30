@@ -7,8 +7,8 @@ export const AboutUs = () => {
             <div className="max-w-7xl mx-auto px-6">
                 {/* Header Section */}
                 <div className="text-center mb-16">
-                    <h1 className="text-4xl sm:text-5xl font-extrabold text-blue-600">Why Choose Micro Sonic for Digital Marketing & Development?</h1>
-                    <p className="mt-4 text-lg sm:text-xl text-gray-600">At Micro Sonic, we are more than just a digital marketing and development company—we are your strategic partner in growth. Whether you need a powerful website, an engaging app, or an effective digital marketing strategy, we provide tailored solutions that deliver real results.</p>
+                    <h1 className="text-4xl sm:text-5xl font-extrabold text-blue-600">Why Choose Sova Cloud Solutions for Digital Marketing & Development?</h1>
+                    <p className="mt-4 text-lg sm:text-xl text-gray-600">At Sova Cloud Solutions, we are more than just a digital marketing and development company—we are your strategic partner in growth. Whether you need a powerful website, an engaging app, or an effective digital marketing strategy, we provide tailored solutions that deliver real results.</p>
                 </div>
 
                 {/* Section 1: Proven Expertise */}
@@ -78,8 +78,8 @@ export const AboutUs = () => {
 
                 {/* Call to Action */}
                 <div className="mt-16 text-center">
-                    <h2 className="text-3xl font-semibold text-blue-600">Get Started with Micro Sonic Today!</h2>
-                    <p className="mt-4 text-lg text-gray-600">Whether you need a stunning website, an engaging mobile app, or a data-driven digital marketing strategy, Micro Sonic is the partner you can trust to grow your business and maximize ROI.</p>
+                    <h2 className="text-3xl font-semibold text-blue-600">Get Started with Sova Cloud Solutions Today!</h2>
+                    <p className="mt-4 text-lg text-gray-600">Whether you need a stunning website, an engaging mobile app, or a data-driven digital marketing strategy, Sova Cloud Solutions is the partner you can trust to grow your business and maximize ROI.</p>
                     <Link to="/query" className="mt-8 inline-block py-3
                      px-6 text-lg font-semibold bg-blue-500 text-white rounded-md 
                      hover:bg-blue-600">Let’s Talk! – Contact us today for a free consultation!</Link>

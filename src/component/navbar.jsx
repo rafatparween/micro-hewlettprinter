@@ -11,8 +11,8 @@ export function Navbar() {
 
                 <a href="/" className="text-2xl font-bold">
                     <img
-                        src="../sonic-logo-removebg-preview.png"
-                        alt="Micro Sonic Logo"
+                        src="../scslogo.png"
+                        alt="Sova Cloud Solutions Logo"
                         className="h-12 w-auto"
                     />
                 </a>
